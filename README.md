@@ -1,4 +1,4 @@
-# Crunchbase Companies Funding Analysis using-python-and Power BI
+# Crunchbase Funding Analysis: Trends, Insights, and Patterns using-python-and Power BI
 
 ## **Introduction**
 In this project, I set out to uncover insights into the complex world of startup funding. Startups rely heavily on funding to grow and innovate, but understanding the trends and patterns in this space is critical for investors, entrepreneurs, and decision-makers. My goal was to answer important questions about how funding flows across sectors and countries and highlight successes and failures in the startup ecosystem.
@@ -26,7 +26,9 @@ The dataset on funded companies was sourced from Crunchbase to analyze and uncov
 ## **Data Cleaning**
 The Python code used for data cleaning and preparation is available [here](https://github.com/isah-suleiman/crunchbase-funding/blob/main/data_collection_and_cleaning.ipynb) for you to look over
 
-## **Data Analysis**
+Using the pandas library, I focused on preparing the Crunchbase funding data for analysis. I started by loading the raw data, cleaning up inconsistencies, filling in missing values, and organizing everything into a neat, structured format. This process ensured that the data was reliable and ready for me to create meaningful insights and visualizations later in the project.
+
+## **Data Analysis and Insights**
 After cleaning the data set I exported it in a .csv format. so I could import it into Power BI
 ```{r}
 df.to_csv('cleaned_research_data.csv', index=False )
