@@ -3,6 +3,8 @@
 ## **Introduction**
 In this project, I set out to uncover insights into the complex world of startup funding. Startups rely heavily on funding to grow and innovate, but understanding the trends and patterns in this space is critical for investors, entrepreneurs, and decision-makers. My goal was to answer important questions about how funding flows across sectors and countries and highlight successes and failures in the startup ecosystem.
 
+![cover](images/business-plan.jpg)
+
 ### **Disclaimer**
 
 The data used for this project was sourced from publicly available datasets and third-party platforms. While every effort has been made to ensure its accuracy and completeness, the data may contain errors, omissions, or outdated information.  
