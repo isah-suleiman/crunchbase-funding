@@ -24,4 +24,11 @@ The analysis and visualizations reflect the scope and limitations of the data av
 The dataset on funded companies was sourced from Crunchbase to analyze and uncover meaningful trends and insights.
 
 ## **Data Cleaning**
-The Python code used for data cleaning and preparation is available [here](https://github.com/isah-suleiman/crunchbase-funding/blob/main/data_collection_and_cleaning.ipynb). Feel free to explore it for more technical details about the project.
+The Python code used for data cleaning and preparation is available [here](https://github.com/isah-suleiman/crunchbase-funding/blob/main/data_collection_and_cleaning.ipynb) for you to look over
+
+## **Data Analysis**
+After cleaning the data set I exported it in a .csv format. so I could import it into Power BI
+```{r}
+df.to_csv('cleaned_research_data.csv', index=False )
+```
+
