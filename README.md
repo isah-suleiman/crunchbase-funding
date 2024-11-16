@@ -20,5 +20,8 @@ The analysis and visualizations reflect the scope and limitations of the data av
 6. The top-funded initial public offering (IPO) companies
 7. The total amount received in funding between the years 2000 and 2014
 
+## **Data Collection**
+The dataset on funded companies was sourced from Crunchbase to analyze and uncover meaningful trends and insights.
+
 ## **Data Cleaning**
-"The Python code used for data cleaning and preparation is available here. Feel free to explore it for more technical details about the project."
+The Python code used for data cleaning and preparation is available [here](https://github.com/isah-suleiman/crunchbase-funding/blob/main/data_collection_and_cleaning.ipynb). Feel free to explore it for more technical details about the project.
