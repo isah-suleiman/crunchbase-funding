@@ -33,6 +33,18 @@ After cleaning the data set I exported it in a .csv format. so I could import it
 ```{r}
 df.to_csv('cleaned_research_data.csv', index=False )
 ```
+---
+![Dashboard](/images/crunch_page-0001.jpg)
+---
+![Dashboard](/images/crunch_page-0002.jpg)
 
+## **Insights**
+1. Between 1906 to 2014 $413 Billion was raised by startups across the world
+2. The biotech sector received the most funding at $67 Billion
+3. 2007 was the year with the most funding as a total of $32 billion was raised from investors across all industries.
+4. Verizon Communications Inc. is the most funded company that went public with its shares. Many companies closed down even after receiving large amounts of funding over many rounds. United Mobile raised a total of $515 million dollars but later closed down.
 
+Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/isah-suleiman/)
+---
 
+![Dashboard](/images/thank-you.jpg)
