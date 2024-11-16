@@ -47,4 +47,4 @@ df.to_csv('cleaned_research_data.csv', index=False )
 Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/isah-suleiman/)
 ---
 
-![Dashboard](/images/thank-you.jpg)
+![Dashboard](/images/thank-you.png)
